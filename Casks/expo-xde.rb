@@ -9,4 +9,9 @@ cask 'expo-xde' do
   homepage 'https://expo.io/'
 
   app 'Expo XDE.app'
+
+  caveats do
+    discontinued
+  end
+
 end
